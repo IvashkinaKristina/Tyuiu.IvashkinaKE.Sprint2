@@ -16,9 +16,9 @@ namespace Tyuiu.IvashkinaKE.Sprint2.Task7.V14
             Console.Title = "Спринт #2 | Выполнила: Ивашкина К.Э. | АСОиУб-23-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #2                                                                         *");
-            Console.WriteLine("* Тема: Получение результата из switch                                              *");
-            Console.WriteLine("* Задание #6                                                                        *");
-            Console.WriteLine("* Вариант #6                                                                        *");
+            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                           *");
+            Console.WriteLine("* Задание #7                                                                        *");
+            Console.WriteLine("* Вариант #14                                                                       *");
             Console.WriteLine("* Выполнила: Ивашкина Кристина Эдуардовна | АСОиУб-23-1                             *");
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                          *");
